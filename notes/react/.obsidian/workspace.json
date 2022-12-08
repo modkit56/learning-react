@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd91a56affb93572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "props.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Components.md",
+                "file": "props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class Components.md",
+                "file": "props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class Components.md"
+                "file": "props.md"
               }
             }
           }
@@ -161,8 +173,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "87dd3ad2bc1af0f2",
+  "active": "cd91a56affb93572",
   "lastOpenFiles": [
+    "Class Components.md",
     "React Basics.md",
     "React Concepts.md",
     "JS.md",

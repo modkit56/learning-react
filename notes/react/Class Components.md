@@ -31,4 +31,4 @@ order -> constructor() first, render() runs next, then comes componentDidMount()
 
 Anonymous Functions inside render() may cause problems, because the anonymous function would reinitialize every single time the component renders.
 
-
+Components naming should be in camelCase.
