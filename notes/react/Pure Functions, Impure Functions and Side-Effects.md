@@ -17,7 +17,7 @@ Re-runs the entire function, every time a component needs to re-render.
 **UseEffect()**
 take in two arguments:
 first -> a callback
-second -> array of dependencies (if empty then would only call once[onMount])
+second -> array of dependencies (uses useEffect if dependencies change) (if empty then would only call once[onMount])
 
 
 
