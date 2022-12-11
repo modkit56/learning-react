@@ -30,9 +30,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87dd3ad2bc1af0f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd91a56affb93572",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1644de6cc3f22a38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "676d3537279b738d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "90f3f19b99b71630",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "01ce24519640d543",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -98,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Basics.md",
+                "file": "JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React Basics.md",
+                "file": "JSX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Basics.md"
+                "file": "JSX.md"
               }
             }
           }
@@ -149,10 +201,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7227d2ff3d73bb9b",
+  "active": "01ce24519640d543",
   "lastOpenFiles": [
-    "React Concepts.md",
+    "Dom and VirtualDOM.md",
+    "Pure Functions, Impure Functions and Side-Effects.md",
+    "Functional Components.md",
+    "props.md",
+    "Class Components.md",
     "React Basics.md",
+    "React Concepts.md",
     "JS.md",
     "DOMS.md"
   ]
